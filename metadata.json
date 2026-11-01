@@ -1,0 +1,6 @@
+{
+  "name": "Chennai Highway Bus Driver",
+  "description": "3D passenger bus driving simulator across Tamil Nadu with realistic physics, dual cockpit/exterior cameras, passenger boarding, and highway management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
